@@ -1,5 +1,4 @@
-{
-  "homepage": "https://juniordev203.github.io/react-portfolio",
+{  
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
@@ -49,5 +48,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "https://juniordev203.github.io/react-portfolio"
 }
