@@ -9,23 +9,16 @@ import {
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
   DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
   SiTypescript,
   SiMysql,
   SiSwagger
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 import { AiOutlineDotNet } from "react-icons/ai";
 
 function Techstack() {
