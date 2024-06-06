@@ -305,7 +305,7 @@ html {
   
   .myAvtar {
     justify-content: center !important;
-    padding-top: 9em !important;
+    padding-top: 6em !important;
   }
   
   @media (max-width: 767px) {
@@ -756,7 +756,7 @@ html {
   
   
   .img-fluid {
-    max-width: 80%;
+    max-width: 80% !important;
     height: auto;
     border-radius: 10px;
   }
