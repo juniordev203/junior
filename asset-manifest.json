@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.93f8ae68.css",
-    "main.js": "/react-portfolio/static/js/main.22c8313f.js",
-    "static/js/453.c937a3a2.chunk.js": "/react-portfolio/static/js/453.c937a3a2.chunk.js",
-    "static/media/avatar.jpg": "/react-portfolio/static/media/avatar.1ecef90e175a3d5fe356.jpg",
-    "static/media/home-main.svg": "/react-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/react-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/react-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/logojunior.png": "/react-portfolio/static/media/logojunior.f18e05f22861dd30f5c1.png",
-    "static/media/home-bg.jpg": "/react-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/react-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/react-portfolio/index.html",
-    "main.93f8ae68.css.map": "/react-portfolio/static/css/main.93f8ae68.css.map",
-    "main.22c8313f.js.map": "/react-portfolio/static/js/main.22c8313f.js.map",
-    "453.c937a3a2.chunk.js.map": "/react-portfolio/static/js/453.c937a3a2.chunk.js.map"
+    "main.css": "/junior/static/css/main.684f7e14.css",
+    "main.js": "/junior/static/js/main.ce4b88e1.js",
+    "static/js/453.c937a3a2.chunk.js": "/junior/static/js/453.c937a3a2.chunk.js",
+    "static/media/avatar.jpg": "/junior/static/media/avatar.1ecef90e175a3d5fe356.jpg",
+    "static/media/home-main.svg": "/junior/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/junior/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/junior/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/logojunior.png": "/junior/static/media/logojunior.f18e05f22861dd30f5c1.png",
+    "static/media/home-bg.jpg": "/junior/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/junior/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/junior/index.html",
+    "main.684f7e14.css.map": "/junior/static/css/main.684f7e14.css.map",
+    "main.ce4b88e1.js.map": "/junior/static/js/main.ce4b88e1.js.map",
+    "453.c937a3a2.chunk.js.map": "/junior/static/js/453.c937a3a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93f8ae68.css",
-    "static/js/main.22c8313f.js"
+    "static/css/main.684f7e14.css",
+    "static/js/main.ce4b88e1.js"
   ]
 }
