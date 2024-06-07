@@ -11,10 +11,7 @@ import {
   AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
-  AiOutlineUser,
 } from "react-icons/ai";
-
-import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -47,9 +44,6 @@ function NavBar() {
             updateExpanded(expand ? false : "expanded");
           }}
         >
-          <span></span>
-          <span></span>
-          <span></span>
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">

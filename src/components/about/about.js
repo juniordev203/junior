@@ -1,9 +1,8 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row} from "react-bootstrap";
 import Particle from "../particle";
 import Github from "./github";
 import Techstack from "./techstack";
-import laptopImg from "../../Assets/about.png";
 import Toolstack from "./toolstack";
 
 function About() {
